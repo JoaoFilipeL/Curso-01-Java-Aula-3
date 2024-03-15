@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b507f7b-5590-45b4-b2f4-84627e51a2d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/outroLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/usandoScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dh9vWt35eiqJmF2Rw95s689xqy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Condicional.executor": "Run",
+    "Application.Desafio.executor": "Run",
+    "Application.Ex01.executor": "Run",
+    "Application.Ex02.executor": "Run",
+    "Application.Ex03.executor": "Run",
+    "Application.Ex04.executor": "Run",
+    "Application.Ex05.executor": "Run",
+    "Application.Ex06.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.loop.executor": "Run",
+    "Application.outroLoop.executor": "Run",
+    "Application.programa.executor": "Run",
+    "Application.usandoScanner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ex06">
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex02" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex03" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex04" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex05" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex06" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex06" />
+        <item itemvalue="Application.Ex05" />
+        <item itemvalue="Application.Ex04" />
+        <item itemvalue="Application.Ex03" />
+        <item itemvalue="Application.Ex02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b507f7b-5590-45b4-b2f4-84627e51a2d1" name="Changes" comment="" />
+      <created>1710449675095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710449675095</updated>
+    </task>
+    <servers />
+  </component>
+</project>
